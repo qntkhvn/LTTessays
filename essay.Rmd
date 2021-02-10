@@ -9,8 +9,6 @@ fontsize: 11pt
 
 \begin{center}
 
-$$ $$
-
 \vspace{25mm}
 
 \LARGE
